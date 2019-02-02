@@ -1,0 +1,10 @@
+{
+  "name": "node-red-mqtt-example",
+  "version": "1.0.0",
+  "description": "An example of using node-red with mqtt",
+  "scripts": {
+    "start": "docker-compose up"
+  },
+  "author": "Mitch Allen",
+  "license": "MIT"
+}
