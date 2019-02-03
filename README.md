@@ -26,12 +26,12 @@
 ### How to use the examples
 
 1. Copy the JSON of each example to the clipboard
-- From the node-red menu: __Import / Clipboard__
-* Paste the clipboard JSON into the dialog box
-* Click the __new flow__ tab
-* Click __Import__
-* Click __Deploy__
-* Click the __debug__ (bug) icon in the panel on the right
+2. From the node-red menu: __Import / Clipboard__
+3. Paste the clipboard JSON into the dialog box
+4. Click the __new flow__ tab
+5. Click __Import__
+6. Click __Deploy__
+7. Click the __debug__ (bug) icon in the panel on the right
 
 Most examples can be triggered by click the button (left) tab on the inject nodes.
 
