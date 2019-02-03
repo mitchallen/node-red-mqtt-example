@@ -26,7 +26,7 @@
 ### How to use the examples
 
 1. Copy the JSON of each example to the clipboard
-* From the node-red menu: __Import / Clipboard__
+- From the node-red menu: __Import / Clipboard__
 * Paste the clipboard JSON into the dialog box
 * Click the __new flow__ tab
 * Click __Import__
