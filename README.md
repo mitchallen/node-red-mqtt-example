@@ -33,7 +33,7 @@
 6. Click __Deploy__
 7. Click the __debug__ (bug) icon in the panel on the right
 
-Most examples can be triggered by click the button (left) tab on the inject nodes.
+Most examples can be triggered by clicking the button (left) tab on the inject nodes.
 
 ### simple mqtt
 
