@@ -21,6 +21,14 @@
 
 * * *
 
+## References
+
+* https://github.com/node-red/cookbook.nodered.org/wiki/Connect-to-an-MQTT-broker
+* https://github.com/node-red/cookbook.nodered.org/wiki/MQTT-Basics
+* https://github.com/node-red/cookbook.nodered.org/wiki/How-to-safely-expose-Node-RED-to-the-Internet
+
+* * *
+
 ## Example
 
 ### How to use the examples
