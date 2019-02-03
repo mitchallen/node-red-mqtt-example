@@ -41,7 +41,7 @@ While creating these examples I had to make sure that each flows topics were uni
 
 If the other flows were using the same topic, and those flows were enabled, they would also be listening for and processing the published messages.
 
-That is why if you look at some of the nodes, you will see that one flow uses 'example1/...', then the next uses 'example2/...' etc.
+That is why if you look at some of the nodes, you will see that one flows topics start with __example1/...__, then the next starts with __example2/...__ etc.
 
 * * *
 
